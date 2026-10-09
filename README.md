@@ -13,7 +13,7 @@ single Python file or as an EXE that needs no installation.*
 | [passwort-generator](https://github.com/DerAlexmann/passwort-generator) | Passwortgenerator mit Stärkeanzeige und Zeichenauswahl | Password generator with strength meter and character selection |
 | [WetterWidget](https://github.com/DerAlexmann/WetterWidget) | Wetter-Widget für den Desktop mit DWD-Messwerten und Stundenvorhersage | Desktop weather widget with DWD measurements and hourly forecast |
 | [python-script-module-manager](https://github.com/DerAlexmann/python-script-module-manager) | Python-Scripts starten, Abhängigkeiten prüfen und Module aller Python-Installationen verwalten | Run Python scripts, check their dependencies and manage the modules of every Python installation |
-| [Neuro-Enhance](https://github.com/DerAlexmann/Neuro-Enhance) | Quelloffener, GPU-beschleunigter KI-Bild- und Fotoverbesserer für NVIDIA-RTX-Grafikkarten (in Entwicklung) | Open-source, GPU-accelerated AI image & photo enhancer for NVIDIA RTX graphics cards (in development) |
+| [Silberkorn](https://github.com/DerAlexmann/Silberkorn) | Quelloffener, GPU-beschleunigter KI-Bild- und Fotoverbesserer für NVIDIA-RTX-Grafikkarten (in Entwicklung) | Open-source, GPU-accelerated AI image & photo enhancer for NVIDIA RTX graphics cards (in development) |
 
 ## Unterstützen / Support
 
