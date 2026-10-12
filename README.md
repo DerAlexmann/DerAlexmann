@@ -6,15 +6,18 @@ Python-Datei oder als EXE ohne Installation.
 *Hi, I'm Alexander. I build small, practical tools for Windows – usually as a
 single Python file or as an EXE that needs no installation.*
 
-| Projekt / Project | Beschreibung | Description |
-| --- | --- | --- |
-| [bild-toolbox](https://github.com/DerAlexmann/bild-toolbox) | Alle Bildwerkzeuge in einer Anwendung – Duplikate, Ähnlichkeiten, Konvertierung, Icons | All image tools in one application – duplicates, similar images, conversion, icons |
-| [qr-code-generator](https://github.com/DerAlexmann/qr-code-generator) | QR-Codes aus Text erzeugen und in zehn Bildformaten speichern | Create QR codes from text and save them in ten image formats |
-| [passwort-generator](https://github.com/DerAlexmann/passwort-generator) | Passwortgenerator mit Stärkeanzeige und Zeichenauswahl | Password generator with strength meter and character selection |
-| [WetterWidget](https://github.com/DerAlexmann/WetterWidget) | Wetter-Widget für den Desktop mit DWD-Messwerten und Stundenvorhersage | Desktop weather widget with DWD measurements and hourly forecast |
-| [python-script-module-manager](https://github.com/DerAlexmann/python-script-module-manager) | Python-Scripts starten, Abhängigkeiten prüfen und Module aller Python-Installationen verwalten | Run Python scripts, check their dependencies and manage the modules of every Python installation |
-| [LicenseProbe](https://github.com/DerAlexmann/LicenseProbe) | Windows-Produktschlüssel im Klartext – aus Firmware, Registry und Sicherung, mit Aktivierungsstand | Windows product keys in plain text – from firmware, registry and backup, with activation status |
-| [Silberkorn](https://github.com/DerAlexmann/Silberkorn) | Quelloffener, GPU-beschleunigter KI-Bild- und Fotoverbesserer für NVIDIA-RTX-Grafikkarten (in Entwicklung) | Open-source, GPU-accelerated AI image & photo enhancer for NVIDIA RTX graphics cards (in development) |
+Die Versionsnummern holt sich die Tabelle automatisch von GitHub und zeigt
+immer die neueste Veröffentlichung.
+
+*The version numbers come straight from GitHub and always show the latest
+release.*
+
+| Projekt / Project | Version | Beschreibung | Description |
+| --- | --- | --- | --- |
+| [bild-toolbox](https://github.com/DerAlexmann/bild-toolbox) | [![Version](https://img.shields.io/github/v/release/DerAlexmann/bild-toolbox?sort=semver&display_name=tag&label=Version)](https://github.com/DerAlexmann/bild-toolbox/releases/latest) | Alle Bildwerkzeuge in einer Anwendung – Duplikate, Ähnlichkeiten, Konvertierung, Icons | All image tools in one application – duplicates, similar images, conversion, icons |
+| [qr-code-generator](https://github.com/DerAlexmann/qr-code-generator) | [![Version](https://img.shields.io/github/v/release/DerAlexmann/qr-code-generator?sort=semver&display_name=tag&label=Version)](https://github.com/DerAlexmann/qr-code-generator/releases/latest) | QR-Codes aus Text erzeugen und in zehn Bildformaten speichern | Create QR codes from text and save them in ten image formats |
+| [passwort-generator](https://github.com/DerAlexmann/passwort-generator) | [![Version](https://img.shields.io/github/v/release/DerAlexmann/passwort-generator?sort=semver&display_name=tag&label=Version)](https://github.com/DerAlexmann/passwort-generator/releases/latest) | Passwortgenerator mit Stärkeanzeige und Zeichenauswahl | Password generator with strength meter and character selection |
+| [WetterWidget](https://github.com/DerAlexmann/WetterWidget) | [![Version](https://img.shields.io/github/v/release/DerAlexmann/WetterWidget?sort=semver&display_name=tag&label=Version)](https://github.com/DerAlexmann/WetterWidget/releases/latest) | Wetter-Widget für den Desktop mit DWD-Messwerten und Stundenvorhersage | Desktop weather widget with DWD measurements and hourly forecast |
 
 ## Unterstützen / Support
 
